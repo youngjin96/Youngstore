@@ -1,9 +1,11 @@
 import { Grid } from "@mui/material";
 
+import Header from "./Header";
+
 
 const Home = () => {
     return (
-        <div>ho</div>
+        <Header />
     )
 }
 

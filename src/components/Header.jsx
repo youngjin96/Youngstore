@@ -48,7 +48,7 @@ const Header = () => {
      *  로그인 페이지로 이동
      */
     const onClickLogin = () => {
-        navigate("/login");
+        navigate("/SignIn");
     }
 
     return (
